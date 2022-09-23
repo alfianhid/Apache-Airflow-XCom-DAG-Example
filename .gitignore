@@ -1,0 +1,5 @@
+/.google
+/logs
+/plugins
+*.env
+*.json
